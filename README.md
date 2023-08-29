@@ -38,9 +38,9 @@
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j4nis05&show_icons=true&locale=en&layout=compact" alt="j4nis05" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j4nis05&show_icons=true&locale=en&layout=compact" alt="j4nis05" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j4nis05&show_icons=true&locale=en" alt="j4nis05" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j4nis05&show_icons=true&locale=en" alt="j4nis05" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j4nis05&" alt="j4nis05" /></p>
 
