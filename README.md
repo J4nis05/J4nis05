@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j4nis05" alt="j4nis05" /></a> </p>
 
+- 🔭 I’m currently working on [LiveTerm](https://github.com/J4nis05/LiveTerm)
+
 - 🌱 I’m currently learning **Flask**
 
 - 📄 Know about my experiences [Resume.pdf](https://admin.j4nis05.ch/pdf/resume.pdf)
