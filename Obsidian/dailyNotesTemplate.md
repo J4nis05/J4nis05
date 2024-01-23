@@ -1,5 +1,7 @@
-# {{date:DD-MM-YYYY}}
-< [[{{date:DD-MM-YYYY - 1}}]] | [[{{date:DD-MM-YYYY + 1}}]] >
+# {{date:YYYY-MM-DD}}
+
+< [[{{date:YYYY-MM-DD - 1}}]] | [[{{date:YYYY-MM-DD + 1}}]] >
+  
 
 ## Time Blocking
 | Time  | Task        | Goal          |
@@ -23,21 +25,26 @@
 | 16:30 |             |               |
 | 17:00 |             |               |
 
+
 ## Top Priorities
-- [ ] Prio Task 1
-- [ ] Prio Task 2
-- [ ] Prio Task 3
+- [ ] 
+
 
 ## Meetings
-- [ ] 09:15 - Team Meeting
+- [ ] 
+
 
 ## General Notes
-- Lorem Ipsum
+- 
+
 
 ## Reflection
-- What went well today?
-- What challenges did I face?
-- Any outstanding tasks for tomorrow?
+### What went well today?
+- 
+### What challenges did I face?
+- 
+### Any outstanding tasks for tomorrow?
+- 
 
 
 [[Homepage]]
