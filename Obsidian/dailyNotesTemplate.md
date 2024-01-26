@@ -1,29 +1,18 @@
-# {{date:YYYY-MM-DD}}
 
-< [[{{date:YYYY-MM-DD - 1}}]] | [[{{date:YYYY-MM-DD + 1}}]] >
+
+# <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, DD-MM-YYYY") %>
+
+<< [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD').subtract(1, 'd').format('YYYY-MM-DD') %>|Yesterday]] | [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD').add(1, 'd').format('YYYY-MM-DD') %>|Tomorrow]] >>
   
 
 ## Time Blocking
-| Time  | Task        | Goal          |
-|-------|-------------|---------------|
-| 08:00 |             |               |
-| 08:30 |             |               |
-| 09:00 |             |               |
-| 09:30 |             |               |
-| 10:00 |             |               |
-| 10:30 |             |               |
-| 11:00 |             |               |
-| 11:30 |             |               |
-| 12:00 | Lunch Break |               |
-| 13:00 |             |               |
-| 13:30 |             |               |
-| 14:00 |             |               |
-| 14:30 |             |               |
-| 15:00 |             |               |
-| 15:30 |             |               |
-| 16:00 |             |               |
-| 16:30 |             |               |
-| 17:00 |             |               |
+| Time  | Task        | Goal        |
+|-------|-------------|-------------|
+||||
+||||
+||||
+||||
+||||
 
 
 ## Top Priorities
@@ -45,6 +34,3 @@
 - 
 ### Any outstanding tasks for tomorrow?
 - 
-
-
-[[Homepage]]
