@@ -1,3 +1,8 @@
+---
+created: <% tp.file.creation_date() %>
+tags:
+  - daily
+---
 
 
 # <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, DD-MM-YYYY") %>
@@ -24,13 +29,4 @@
 
 
 ## General Notes
-- 
-
-
-## Reflection
-### What went well today?
-- 
-### What challenges did I face?
-- 
-### Any outstanding tasks for tomorrow?
 - 
