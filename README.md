@@ -5,13 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j4nis05" alt="j4nis05" /></a> </p>
 
-- 🔭 I’m currently working on [autoclicker](https://github.com/J4nis05/autoclicker)
-
-- 🌱 I’m currently learning **C#**
-
-- 📄 Know about my experiences [Resume.pdf](https://admin.j4nis05.ch/pdf/resume.pdf)
-
-- ⚡ Fun fact **Tabs are superior to Spaces**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
